@@ -1,0 +1,2 @@
+# soko
+easy
